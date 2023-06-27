@@ -1,5 +1,7 @@
 # Template Proyek Django PBP
 
+I am editing the README file. Adding some more details about the project description.
+
 Pemrograman Berbasis Platform (CSGE602022) - diselenggarakan oleh Fakultas Ilmu Komputer Universitas Indonesia, Semester Ganjil 2022/2023
 
 *Read this in other languages: [Indonesian](README.md), [English](README.en.md)*
